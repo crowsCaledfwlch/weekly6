@@ -1,0 +1,17 @@
+C:\Users\paradoxSatire\Documents\GUIDev\weekly6\weekly6\bin\Debug\weekly6.exe.config
+C:\Users\paradoxSatire\Documents\GUIDev\weekly6\weekly6\bin\Debug\weekly6.exe
+C:\Users\paradoxSatire\Documents\GUIDev\weekly6\weekly6\bin\Debug\weekly6.pdb
+C:\Users\paradoxSatire\Documents\GUIDev\weekly6\weekly6\bin\Debug\weekly6.xml
+C:\Users\paradoxSatire\Documents\GUIDev\weekly6\weekly6\obj\Debug\weekly6.vbproj.AssemblyReference.cache
+C:\Users\paradoxSatire\Documents\GUIDev\weekly6\weekly6\obj\Debug\MainWindow.g.vb
+C:\Users\paradoxSatire\Documents\GUIDev\weekly6\weekly6\obj\Debug\Application.g.vb
+C:\Users\paradoxSatire\Documents\GUIDev\weekly6\weekly6\obj\Debug\weekly6_MarkupCompile.cache
+C:\Users\paradoxSatire\Documents\GUIDev\weekly6\weekly6\obj\Debug\weekly6_MarkupCompile.lref
+C:\Users\paradoxSatire\Documents\GUIDev\weekly6\weekly6\obj\Debug\MainWindow.baml
+C:\Users\paradoxSatire\Documents\GUIDev\weekly6\weekly6\obj\Debug\weekly6.g.resources
+C:\Users\paradoxSatire\Documents\GUIDev\weekly6\weekly6\obj\Debug\weekly6.Resources.resources
+C:\Users\paradoxSatire\Documents\GUIDev\weekly6\weekly6\obj\Debug\weekly6.vbproj.GenerateResource.cache
+C:\Users\paradoxSatire\Documents\GUIDev\weekly6\weekly6\obj\Debug\weekly6.vbproj.CoreCompileInputs.cache
+C:\Users\paradoxSatire\Documents\GUIDev\weekly6\weekly6\obj\Debug\weekly6.exe
+C:\Users\paradoxSatire\Documents\GUIDev\weekly6\weekly6\obj\Debug\weekly6.xml
+C:\Users\paradoxSatire\Documents\GUIDev\weekly6\weekly6\obj\Debug\weekly6.pdb
